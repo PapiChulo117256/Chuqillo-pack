@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "chuquillopack",
+  "version": "1.0.0",
+  "name": "Chuqillo Pack",
+  "description": "Un mod que añade cuchillos y un sistema de loot especial 🗡️",
+  "authors": ["PapiChulo20"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.papichulo.chuqillo.ChuqilloMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": "1.20.1",
+    "java": ">=17"
+  }
+}
